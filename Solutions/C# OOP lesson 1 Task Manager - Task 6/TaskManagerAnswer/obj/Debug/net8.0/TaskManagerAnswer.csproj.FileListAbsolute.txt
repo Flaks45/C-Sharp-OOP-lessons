@@ -1,0 +1,48 @@
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.exe
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.deps.json
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.runtimeconfig.json
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.pdb
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.csproj.AssemblyReference.cache
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.AssemblyInfoInputs.cache
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.AssemblyInfo.cs
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.csproj.CoreCompileInputs.cache
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\TaskMana.240F8E3B.Up2Date
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\refint\TaskManagerAnswer.dll
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.pdb
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.genruntimeconfig.cache
+C:\Users\Flaks\Documents\C# OOP lesson 1 Task Manager\TaskManagerAnswer\obj\Debug\net8.0\ref\TaskManagerAnswer.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.exe
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.deps.json
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.runtimeconfig.json
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\TaskManagerAnswer.pdb
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.csproj.AssemblyReference.cache
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.AssemblyInfoInputs.cache
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.AssemblyInfo.cs
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.csproj.CoreCompileInputs.cache
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\TaskMana.240F8E3B.Up2Date
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\refint\TaskManagerAnswer.dll
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.pdb
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\TaskManagerAnswer.genruntimeconfig.cache
+C:\Users\Flaks\Documents\C# lessons\C# OOP lesson 1 Task Manager\C# OOP lesson 1 Task Manager - Task 6\TaskManagerAnswer\obj\Debug\net8.0\ref\TaskManagerAnswer.dll
